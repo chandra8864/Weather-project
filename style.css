@@ -1,0 +1,11 @@
+body{
+    background-image: url(/sunnyimg.avif);
+    background-repeat: no-repeat;
+    background-size: 100% 405%;
+
+}
+
+.second{
+    display: none;
+    
+}
